@@ -10,7 +10,7 @@ void printsumwisearray(int arr[][3],int rows,int col){
         }
         cout<<sum<<endl;
     }
-}
+} 
 
 int main(){
     //creating a 2D array
